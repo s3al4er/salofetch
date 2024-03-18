@@ -1,0 +1,4 @@
+py-cpuinfo
+pyfiglet
+psutil
+gputil
